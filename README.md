@@ -23,7 +23,7 @@ Display products and its price for sale.
 
 Succssful Purchase: customer select product and enter quantity > app displays succssful message and total cost of an item.
 
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/customerOrder.png">
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/buyProduct.png">
 
 Insufficent quantity, invalid selection and exit
 
