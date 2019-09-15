@@ -28,3 +28,5 @@ Succssful Purchase: customer select product and enter quantity > app displays su
 Insufficent quantity, invalid selection and exit
 
 <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/invalidSelection.png">
+
+## Contributor Hanna Tefera
