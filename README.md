@@ -1,6 +1,6 @@
 # Bamazon Node APP
 
-* Bamazon app takes in orders from customers and deplete products with its price. 
+* Bamazon app takes in orders from customers and deplete stock from the store's inventory. 
 
 ### How Bamazon Works
 
