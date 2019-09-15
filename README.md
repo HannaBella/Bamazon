@@ -17,8 +17,14 @@
 
 ### Bamazon Customer Demo
 
-Display products for sale.
+Display products and its price for sale.
+
 <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/displayProducts.png">
 
-Succssful Purchase: customer select product and enter quantity > app display total cost.  
+Succssful Purchase: customer select product and enter quantity > app displays succssful message and total cost of an item.
+
 <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/customerOrder.png">
+
+Insufficent quantity, invalid selection and exit
+
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/invalidSelection.png">
