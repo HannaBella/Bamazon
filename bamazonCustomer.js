@@ -63,18 +63,19 @@ function promptCustomer(res) {
                                 }
                             ],
                             function(err, result) {
+                                console.log("Purchased Successfully!");
                                 console.log("Your total cost is $" + total + "\n");
                                 displayProduct();
                             })
                     } else {
-                        console.log("Insufficient quantity");
+                        console.log("Insufficient quantity, please try again");
                         promptCustomer(res);
                     }
                 })
             }
         }
         if (i == res.length && reply == false) {
-            console.log("Not a valid selection!");
+            console.log("Not a valid selection, please select from the list");
             promptCustomer(res);
         }
     })
