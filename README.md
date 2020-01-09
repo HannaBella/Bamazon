@@ -12,7 +12,7 @@
 ### Technology Used
 
 * Node.js 
-* MYSQL 
+* MySQL 
 * inquirer dotenv node packages
 
 ### Bamazon Customer Demo
