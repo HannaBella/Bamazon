@@ -11,7 +11,7 @@
 
 ### Technology Used
 
-* node.js 
+* Node.js 
 * MYSQL 
 * inquirer dotenv node packages
 
@@ -29,4 +29,4 @@ Insufficent quantity, invalid selection and exit
 
 <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/invalidSelection.png">
 
-## Contributor Hanna Tefera
+## Author Hanna Tefera
