@@ -29,4 +29,4 @@ Insufficent quantity, invalid selection and exit
 
 <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/invalidSelection.png">
 
-## Author Hanna Tefera
+## Created by Hanna Tefera
